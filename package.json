@@ -1,0 +1,22 @@
+{
+  "name": "insta-blog",
+  "version": "1.0.0",
+  "description": "This is a simple site using the instagram API to create a basic site with images as part of the blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanaveliskova/insta-blog.git"
+  },
+  "author": "Ivana Veliskova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanaveliskova/insta-blog/issues"
+  },
+  "homepage": "https://github.com/ivanaveliskova/insta-blog#readme",
+  "dependencies": {
+    "node-rest-client": "^2.0.1"
+  }
+}
